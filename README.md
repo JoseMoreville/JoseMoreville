@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMoreville)
 
 
-<details>
+<details style="cursor: pointer;">
   <ul>
       <li>JavaScript</li>
       <li>TypeScript</li>
