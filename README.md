@@ -1,7 +1,9 @@
 # About Me:
-
-## I'm José a Mexican Software engineer student. I'm focused on web technologies. I can speak English and Spanish fluently and i'm currently learning Japanese.
-
+<center>
+<b> 
+I'm José a Mexican Software engineer student. I'm focused on web technologies. I can speak English and Spanish fluently and i'm currently learning Japanese.
+</b>
+</center>
 
 # My most used languages.
 
