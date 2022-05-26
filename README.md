@@ -1,7 +1,8 @@
 # About Me:
 <center>
 <b> 
-I'm José a Mexican Software engineer student. I'm focused on web technologies. I can speak English and Spanish fluently and i'm currently learning Japanese.
+I'm José a Mexican Software engineer student focused on web technologies. 
+I can speak English and Spanish fluently and currently learning Japanese.
 </b>
   
   <br/>
