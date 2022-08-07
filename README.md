@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/JoseMoreville?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FMazatlan)
+
 # About Me:
 <center>
 <b> 
