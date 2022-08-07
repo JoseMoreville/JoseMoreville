@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/JoseMoreville?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FMazatlan)
+![Metrics](/github-metrics.svg)
 
 # About Me:
 <center>
